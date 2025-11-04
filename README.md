@@ -17,7 +17,7 @@ A simple, production-style REST API built with Node.js and Express, using SQLite
 ## Project Structure
 
 ```
-backend-js/
+nodejs-sqlite-rest-api/
 ├── app.js
 ├── package.json
 ├── README.md
@@ -32,6 +32,8 @@ backend-js/
 │   └── userRoutes.js
 ├── middleware/
 │   └── validation.js
+├── bruno/
+│   └── nodejs-sqlite-rest-api.bru
 └── .vscode/
     └── launch.json
 ```
