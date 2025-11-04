@@ -1,0 +1,6 @@
+# .gitignore
+node_modules/
+users.db
+.vscode/
+.env
+*.log
